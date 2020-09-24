@@ -7,6 +7,3 @@
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ... fsdlkfj
 - ⚡ Fun fact: ...I am half finished
-Connect with me:
-codeSTACKr.comcodeSTACKr | YouTubecodeSTACKr | TwittercodeSTACKr | LinkedIncodeSTACKr | Instagram
--->
