@@ -17,7 +17,7 @@
 
 <br />
 
-[twitter]: https://twitter.com/M_Ameen_Akbar
+[twitter]: https://twitter.com/MAmeenAkbar
 [youtube]: https://www.youtube.com/channel/UC8zcsdIpuFHcGJouoJ399Dw?view_as=subscriber
 [instagram]: https://www.instagram.com/m.ameenakbar/
 [linkedin]: https://www.linkedin.com/in/m-ameen-akbar-286822177/
