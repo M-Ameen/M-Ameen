@@ -2,11 +2,11 @@
 
 ## I'm a Student, Developer, and Teacher!
 
-- 🔭 I’m currently working on a [Web Development Course]
+- 🔭 I’m currently working on a [Android App Development Course]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play fortnite
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play COD
 
 ### Connect with me:
 
