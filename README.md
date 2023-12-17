@@ -2,10 +2,10 @@
 
 ## I'm a Student, Developer, and Teacher!
 
-- 🔭 I’m currently working on a [Android App Development Course]
+- 🔭 I’m currently working as an Android Developer
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play COD
 
 ### Connect with me:
