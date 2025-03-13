@@ -1,12 +1,12 @@
 # 💫 About Me:
 
-🚀 Proficient in Kotlin and Java with expertise in Jetpack Components, MVVM, and Clean Architecture for scalable Android apps.
-🎨 Experienced in Jetpack Compose, including UI elements, theming, animations, and state management.
-📱 Strong understanding of Android UI/UX principles, Material Design, and custom view development.
-⚡ Optimized app performance, memory usage, and battery efficiency while securing code with ProGuard.
-🛠️ Skilled in debugging using Android Studio Profiler, LeakCanary, and Crashlytics.
-🔥 Worked extensively with Firebase (Authentication, Firestore, Realtime Database, Cloud Functions) and integrated third-party SDKs/APIs.
-🏗️ Strong knowledge of Git, GitHub, CI/CD workflows, and Play Store publishing policies.
+🚀 Proficient in Kotlin and Java with expertise in Jetpack Components, MVVM, and Clean Architecture for scalable Android apps.<br>
+🎨 Experienced in Jetpack Compose, including UI elements, theming, animations, and state management.<br>
+📱 Strong understanding of Android UI/UX principles, Material Design, and custom view development.<br>
+⚡ Optimized app performance, memory usage, and battery efficiency while securing code with ProGuard.<br>
+🛠️ Skilled in debugging using Android Studio Profiler, LeakCanary, and Crashlytics.<br>
+🔥 Worked extensively with Firebase (Authentication, Firestore, Realtime Database, Cloud Functions) and integrated third-party SDKs/APIs.<br>
+🏗️ Strong knowledge of Git, GitHub, CI/CD workflows, and Play Store publishing policies.<br>
 
 
 ## 🌐 Socials:
