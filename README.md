@@ -1,6 +1,7 @@
 # 💫 About Me:
 
 🚀 Proficient in Kotlin and Java with expertise in Jetpack Components, MVVM, and Clean Architecture for scalable Android apps.<br>
+
 🎨 Experienced in Jetpack Compose, including UI elements, theming, animations, and state management.<br>
 📱 Strong understanding of Android UI/UX principles, Material Design, and custom view development.<br>
 ⚡ Optimized app performance, memory usage, and battery efficiency while securing code with ProGuard.<br>
