@@ -1,23 +1,24 @@
-### Hi there, I'm Muhammad Ameen 👋
+### Hi there! 👋 I'm Ameen  
 
-## I'm a Student, Developer, and Teacher!
+🚀 **Android Developer | Kotlin Enthusiast | Firebase Expert**  
 
-- 🔭 I’m currently working as an Android Developer
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play COD
+🔹 Passionate about crafting high-performance Android apps  
+🔹 Experienced in modern Android architectures & Jetpack libraries  
+🔹 Skilled in UI/UX optimization & Scoped Storage implementation  
+🔹 Firebase lover – Firestore, Realtime Database, Authentication, Cloud Functions  
 
-### Connect with me:
+### 🛠️ Tech Stack  
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Room](https://img.shields.io/badge/Room-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white)  
+![MVVM](https://img.shields.io/badge/MVVM-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
+![ProGuard](https://img.shields.io/badge/ProGuard-0066FF?style=for-the-badge&logo=android&logoColor=white)  
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### 📈 GitHub Stats  
+![Ameen's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Ameen&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ameen&layout=compact&theme=tokyonight)  
 
-<br />
-
-[twitter]: https://twitter.com/MAmeenAkbar
-[youtube]: https://www.youtube.com/channel/UC8zcsdIpuFHcGJouoJ399Dw?view_as=subscriber
-[instagram]: https://www.instagram.com/m.ameenakbar/
-[linkedin]: https://www.linkedin.com/in/m-ameen-akbar-286822177/
+### 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-Ameen)  
